@@ -10,12 +10,21 @@ package com.test;
  * @author jaspreetsingh
  */
 public class MyTest {
-    
-    public void display(){
-    
+
+    public void display() {
+
     }
-    
-    public void display(int a){
-    
+
+    public void display(int a) {
+
+    }
+
+    public boolean isEvenNumber(int number) {
+
+        boolean result = false;
+        if (number % 2 == 0) {
+            result = true;
+        }
+        return result;
     }
 }
