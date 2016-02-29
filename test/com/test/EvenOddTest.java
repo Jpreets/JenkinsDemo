@@ -12,9 +12,9 @@ import org.junit.Test;
  *
  * @author jaspreetsingh
  */
-public class MyTestUnitCase {
+public class EvenOddTest {
 
-    MyTest myTest = new MyTest();
+    EvenOdd myTest = new EvenOdd();
 
     @Test
     public void Test1() {

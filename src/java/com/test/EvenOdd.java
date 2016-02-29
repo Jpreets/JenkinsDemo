@@ -9,7 +9,7 @@ package com.test;
  *
  * @author jaspreetsingh
  */
-public class MyTest {
+public class EvenOdd {
 
     public void display() {
 
